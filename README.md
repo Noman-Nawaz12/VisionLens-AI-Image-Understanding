@@ -1,7 +1,7 @@
 # 🖼️VisionLens-AI Image Understanding
 
 **AI Image Understanding, Grounded in What's Actually There**
-Lightweight Vision-Language Model Research Project — Reducing Hallucination & the Connector Bottleneck in Multimodal LLMs
+Lightweight Vision-Language Model Project — Reducing Hallucination & the Connector Bottleneck in Multimodal LLMs
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
