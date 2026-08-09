@@ -1,4 +1,4 @@
-# 🖼️ GroundedVision
+# 🖼️VisionLens-AI Image Understanding
 
 **AI Image Understanding, Grounded in What's Actually There**
 Lightweight Vision-Language Model Research Project — Reducing Hallucination & the Connector Bottleneck in Multimodal LLMs
@@ -14,7 +14,7 @@ Lightweight Vision-Language Model Research Project — Reducing Hallucination & 
 
 ## 📌 Overview
 
-**GroundedVision** implements the research proposal *"Multimodal Large Language Models for Vision-Language Tasks."* It's a lightweight, laptop-friendly pipeline for fine-tuning and evaluating a small open-source Vision-Language Model (VLM) on **VQA** (Visual Question Answering) or **Image Captioning**, specifically targeting two well-known research gaps in MLLMs:
+**VisionLens** implements the research proposal *"Multimodal Large Language Models for Vision-Language Tasks."* It's a lightweight, laptop-friendly pipeline for fine-tuning and evaluating a small open-source Vision-Language Model (VLM) on **VQA** (Visual Question Answering) or **Image Captioning**, specifically targeting two well-known research gaps in MLLMs:
 
 - 🔌 **Connector bottleneck** — information loss between the vision encoder and language model
 - 🧠 **Hallucination** — the model describing things not actually present in the image
@@ -178,4 +178,4 @@ python -m src.evaluate        # full benchmark
 
 ## 👨‍💻 Developer
 
-**GroundedVision** — built as an AI/ML capstone research project combining vision-language architecture study, parameter-efficient fine-tuning, and hallucination-reduction evaluation.
+**VisionLens** — built as an AI/ML capstone research project combining vision-language architecture study, parameter-efficient fine-tuning, and hallucination-reduction evaluation.
