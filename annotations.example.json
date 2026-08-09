@@ -1,0 +1,12 @@
+[
+  {
+    "image": "img_0001.jpg",
+    "question": "What color is the car?",
+    "answer": "red"
+  },
+  {
+    "image": "img_0002.jpg",
+    "question": "How many people are in the picture?",
+    "answer": "two"
+  }
+]

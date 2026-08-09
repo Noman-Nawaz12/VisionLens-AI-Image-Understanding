@@ -1,0 +1,14 @@
+[
+  {
+    "image": "img_0001.jpg",
+    "question": "What color is the car?",
+    "answer": "red",
+    "objects_present": ["car", "red", "road", "tree"]
+  },
+  {
+    "image": "img_0002.jpg",
+    "question": "How many people are in the picture?",
+    "answer": "two",
+    "objects_present": ["person", "two", "park", "bench"]
+  }
+]

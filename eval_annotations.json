@@ -1,0 +1,7 @@
+[
+  {"image": "img_0001.jpg", "question": "What color is the car?", "answer": "red", "objects_present": ["car", "red", "wheels", "road"]},
+  {"image": "img_0002.jpg", "question": "How many people are in the picture?", "answer": "two", "objects_present": ["person", "people", "two", "blue"]},
+  {"image": "img_0003.jpg", "question": "What color is the ball?", "answer": "green", "objects_present": ["ball", "green", "round"]},
+  {"image": "img_0004.jpg", "question": "How many trees are there?", "answer": "three", "objects_present": ["tree", "trees", "three", "green"]},
+  {"image": "img_0005.jpg", "question": "What color is the car?", "answer": "blue", "objects_present": ["car", "blue", "wheels", "road"]}
+]

@@ -1,0 +1,96 @@
+{
+  "summary": {
+    "baseline": {
+      "accuracy": 0.6,
+      "hallucination_rate": 0.4,
+      "avg_latency_sec": 3.974
+    },
+    "grounded": {
+      "accuracy": 0.6,
+      "hallucination_rate": 0.4,
+      "avg_latency_sec": 3.944
+    },
+    "peak_memory_mb": 7.52
+  },
+  "details": {
+    "baseline": [
+      {
+        "question": "What color is the car?",
+        "predicted": "red",
+        "ground_truth": "red",
+        "correct": true,
+        "hallucinated": false
+      },
+      {
+        "question": "How many people are in the picture?",
+        "predicted": "0",
+        "ground_truth": "two",
+        "correct": false,
+        "hallucinated": true
+      },
+      {
+        "question": "What color is the ball?",
+        "predicted": "green",
+        "ground_truth": "green",
+        "correct": true,
+        "hallucinated": false
+      },
+      {
+        "question": "How many trees are there?",
+        "predicted": "3",
+        "ground_truth": "three",
+        "correct": false,
+        "hallucinated": true
+      },
+      {
+        "question": "What color is the car?",
+        "predicted": "blue",
+        "ground_truth": "blue",
+        "correct": true,
+        "hallucinated": false
+      }
+    ],
+    "grounded": [
+      {
+        "question": "What color is the car?",
+        "predicted": "red",
+        "agreement_score": null,
+        "ground_truth": "red",
+        "correct": true,
+        "hallucinated": false
+      },
+      {
+        "question": "How many people are in the picture?",
+        "predicted": "no",
+        "agreement_score": null,
+        "ground_truth": "two",
+        "correct": false,
+        "hallucinated": true
+      },
+      {
+        "question": "What color is the ball?",
+        "predicted": "green",
+        "agreement_score": null,
+        "ground_truth": "green",
+        "correct": true,
+        "hallucinated": false
+      },
+      {
+        "question": "How many trees are there?",
+        "predicted": "3",
+        "agreement_score": null,
+        "ground_truth": "three",
+        "correct": false,
+        "hallucinated": true
+      },
+      {
+        "question": "What color is the car?",
+        "predicted": "blue",
+        "agreement_score": null,
+        "ground_truth": "blue",
+        "correct": true,
+        "hallucinated": false
+      }
+    ]
+  }
+}
